@@ -16,12 +16,12 @@ Pretrained models for our papers:
 
 ### Download Pre-trained Models
 
-**<a href="">models_tag</a>** Semantic context trained on the 1M Flickr dataset.
+**<a href="https://www.dropbox.com/s/j8b4h3ynkv42gj4/models_tag.zip?dl=0">models_tag</a>** Semantic context trained on the 1M Flickr dataset.
 
-**<a href="">models_visual</a>** Visual context trained on the YLI-GEO dataset.
+**<a href="https://www.dropbox.com/s/kcsadz2fl6ynymh/models_visual.zip?dl=0">models_visual</a>** Visual context trained on the YLI-GEO dataset.
 
 ## Citation
-If you use the code please cite our paper.
+If you use the pre-trained models please cite our paper.
 ```
 @inproceedings{yin2021-gps2vec+,
   title={Learning Multi-context Aware Location Representations from Large-scale Geotagged Images},
