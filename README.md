@@ -21,7 +21,7 @@ Pretrained models for our papers:
 **<a href="https://www.dropbox.com/s/kcsadz2fl6ynymh/models_visual.zip?dl=0">models_visual</a>** Visual context trained on the YLI-GEO dataset.
 
 ## Citation
-If you use the pre-trained models please cite our paper.
+If you use the pre-trained models please cite our papers.
 ```
 @inproceedings{yin2021-gps2vec+,
   title={Learning Multi-context Aware Location Representations from Large-scale Geotagged Images},
