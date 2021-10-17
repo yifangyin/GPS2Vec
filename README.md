@@ -1,10 +1,10 @@
 # GPS2Vec+: Learning Multi-context Aware Location Representations from Large-scale Geotagged Images
 
-Pretrained models for the papers:
+Pretrained models for our papers:
 
-**<a href="./papers/gps2vec+">Learning Multi-context Aware Location Representations from Large-scale Geotagged Images</a>** 
+**<a href="/papers/gps2vec+.pdf">Learning Multi-context Aware Location Representations from Large-scale Geotagged Images</a>** 
 
-**<a href="./papers/gps2vec">GPS2Vec: Towards Generating Worldwide GPS Embeddings</a>** 
+**<a href="/papers/gps2vec.pdf">GPS2Vec: Towards Generating Worldwide GPS Embeddings</a>** 
 
 ## Requirements
   - numpy
