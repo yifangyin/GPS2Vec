@@ -26,8 +26,9 @@ If you use the pre-trained models please cite our papers.
 @inproceedings{yin2021-gps2vec+,
   title={Learning Multi-context Aware Location Representations from Large-scale Geotagged Images},
   author={Yin, Yifang and Zhang, Ying and Liu, Zhenguang and Liang, Yuxuan and Wang, Sheng and Shah, Rajiv Ratn and Zimmermann, Roger},
+  year={2021},
   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
-  year={2021}
+  pages = {899–-907},
 }
 
 @inproceedings{yin2019-gps2vec,
